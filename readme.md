@@ -1,4 +1,4 @@
-# How do I manage manualy the OAuth 2.0 authentication interface?
+#  HDI_Netkit_BrowserAutoOpen_false
 
 Version min: 4D v20 R6
 
