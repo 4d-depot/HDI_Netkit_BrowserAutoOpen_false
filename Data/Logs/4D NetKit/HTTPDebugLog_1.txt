@@ -1,0 +1,43 @@
+
+# REQUEST
+# SocketID: 7636
+# PeerIP: 127.0.0.1
+# PeerPort: 58787
+# TimeStamp: 191608949
+# ConnectionID: FCCA91A739CDF94983C99B3688F3A88F
+# SequenceNumber: 17
+GET /authorize/?state=7E75032E0B205E4EBA224B9111A74D66&code=4/0AeaYSHBFQ1tgZJ9zki9QmvLRMlH51jZTSF15ywv0tscfkgm5isYA-si6XBLYmaqdW8BrJQ&scope=https://mail.google.com/ HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Connection: keep-alive
+Cookie: g_state={"i_l":1,"i_p":1713973646268}
+Host: localhost:50994
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+
+
+# RESPONSE
+# SocketID: 7636
+# PeerIP: 127.0.0.1
+# PeerPort: 58787
+# TimeStamp: 191608952 (elapsed time: 3 ms)
+# ConnectionID: FCCA91A739CDF94983C99B3688F3A88F
+# SequenceNumber: 18
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Connection: keep-alive
+Content-Encoding: gzip
+Content-Length: 687
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 26 Apr 2024 12:48:01 GMT
+Expires: Fri, 26 Apr 2024 12:48:01 GMT
+Last-Modified: Fri, 26 Apr 2024 12:48:01 GMT
+Server: 4D/20.6.0
+Vary: Content-Encoding
+
+H4sIAAAAAAAECoVU72/TMBD9zKT9D7dMoA0tzVaGYG1WaeqAD0yAtIK0j659SSwcO9hO0oL43zk7y1Z+SHxJZfvu3Xvv7pofXH9cru4+vYHK12qxv5cfpOn+HjyHpWm2VpaVP+LHcH4Nt1e3E4ArpSDeOrDo0HYoJjE8fijsyFcIya0pfM8sJsfAtIBwx42ljMZoIXUJzrSWh0uBBFQzqSNACMQNV62THUJjTYPWb8EUgQEhZcaC9A6U5KidsS7CU6EQ65F7FLDegmZeGs1UxBzTtEc7PoDCUjoVw9yOgFUlHRRSIdBvw6wPpQOpXb73V6PGULqTgiq3WqCN4RYVdkz70ZWbyBfhqrSINWoPrGNSsTVVMpq8980sy/q+n5xfT7ips0EgQl8ZF2yqGyWZ5hgBudHOS996JP1UHi1+a6WTHsEbcmQLLSVFmqOc0IXakE8larRMqWgqKYuAD1L+26zgVZqGORnnpUImwrlGz6KQNJDpLpOlIce1T1fbBhOSEE+XiceNz0LyHHjFrEN/+Xn1Nn2dBBBSpXBBvf6A/r30NIQ1TQyhPNNr18zzbAigSOe3FLm/92RtxBZ+QM1sKfUMTpvNnDonwpTdnwoqPYOL06eQ3LRcCgbvLAnF5ASG8wl8QSuYZifgmHYpzbUs5vCT0IXsCPwBbxrh7x8OIxl6XjP+tbSG2p9yo4ydweGUn69fXewwOXvZbODxMwD9RjqgVlOCGzGKgkgE8qmT33EGZ5MXWM8fle6gnw5sm12ukeqfFfJsNC7Pxs4FB4P5QasU1KHQhGSRV9N/dYLypos8o+DdnBqdY2XIahZkpiwkj8s1bjhHWmiRZ83fqYIGRypHqeHfIADcmZZU0hqbHrgKC+DDXvZSC9MPGEPoyCIbJcTBIl6/AM+3X07XBAAA

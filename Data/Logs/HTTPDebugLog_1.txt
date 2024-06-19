@@ -1,0 +1,162 @@
+
+# REQUEST
+# SocketID: 3540
+# PeerIP: 127.0.0.1
+# PeerPort: 56414
+# TimeStamp: 109818250
+# ConnectionID: A0C0F7DB7BAFF54081247884AF4BF2AA
+# SequenceNumber: 1
+GET /mailbox.html HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Connection: keep-alive
+Cookie: g_state={"i_l":1,"i_p":1713973646268}
+Host: localhost:8080
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+
+
+# RESPONSE
+# SocketID: 3540
+# PeerIP: 127.0.0.1
+# PeerPort: 56414
+# TimeStamp: 109818791 (elapsed time: 541 ms)
+# ConnectionID: A0C0F7DB7BAFF54081247884AF4BF2AA
+# SequenceNumber: 2
+HTTP/1.1 404 Not Found
+Accept-Ranges: bytes
+Connection: close
+Content-Length: 1662
+Content-Type: text/html
+Date: Thu, 25 Apr 2024 14:04:51 GMT
+Server: 4D/20.6.0
+Set-Cookie: 4DSID_HDI_Netkit_BrowserAutoOpen_false=F4960ED81EB5FA4C813F845E2812E8BE; Path=/; Max-Age=28800; SameSite=Strict; HttpOnly; Version=1
+
+<!--
+* This file is part of Wakanda software, licensed by 4D under
+*  (i) the GNU General Public License version 3 (GNU GPL v3), or
+*  (ii) the Affero General Public License version 3 (AGPL v3) or
+*  (iii) a commercial license.
+* This file remains the exclusive property of 4D and/or its licensors
+* and is protected by national and international legislations.
+* In any event, Licensee's compliance with the terms and conditions
+* of the applicable license constitutes a prerequisite to any use of this file.
+* Except as otherwise expressly stated in the applicable license,
+* such license does not include any other license or rights on this file,
+* 4D's and/or its licensors' trademarks and/or other proprietary rights.
+* Consequently, no title, copyright or other proprietary rights
+* other than those specified in the applicable license is granted.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>404 - Not Found</title>
+<style>
+	body { margin: 0px; padding: 0px; font: 90% "Lucida Grande", Lucida, Verdana, sans-serif; }
+	div#title { background-color: #2c4b79; padding: 15px 15px 15px 20px; margin: 0px; }
+	div#message { padding: 20px; }
+	div#details { padding: 10px; }
+	h2 { color: #fff; font-size: 1.3em; margin: 0; padding: 0; }
+	p { padding: 0px; margin: 0px; }
+</style>
+</head>
+<body>
+<div id="title">
+<h2>404 - Not Found</h2>
+</div>
+<div id="message">
+<p></p>
+</div>
+<div id="details">
+<code></code>
+</div>
+</body>
+</html>
+
+
+# REQUEST
+# SocketID: 3252
+# PeerIP: 127.0.0.1
+# PeerPort: 56466
+# TimeStamp: 109839066
+# ConnectionID: 58501A51179BC845A41DAE3DD3325BA3
+# SequenceNumber: 3
+GET /mailbox.html HTTP/1.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3
+Connection: keep-alive
+Cookie: g_state={"i_l":1,"i_p":1713973646268}; 4DSID_HDI_Netkit_BrowserAutoOpen_false=F4960ED81EB5FA4C813F845E2812E8BE
+Host: localhost:8080
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0
+
+
+# RESPONSE
+# SocketID: 3252
+# PeerIP: 127.0.0.1
+# PeerPort: 56466
+# TimeStamp: 109839155 (elapsed time: 89 ms)
+# ConnectionID: 58501A51179BC845A41DAE3DD3325BA3
+# SequenceNumber: 4
+HTTP/1.1 404 Not Found
+Accept-Ranges: bytes
+Connection: close
+Content-Length: 1662
+Content-Type: text/html
+Date: Thu, 25 Apr 2024 14:05:11 GMT
+Server: 4D/20.6.0
+Set-Cookie: 4DSID_HDI_Netkit_BrowserAutoOpen_false=96A76D86E35C2443A448C18FE933C8D7; Path=/; Max-Age=28800; SameSite=Strict; HttpOnly; Version=1
+
+<!--
+* This file is part of Wakanda software, licensed by 4D under
+*  (i) the GNU General Public License version 3 (GNU GPL v3), or
+*  (ii) the Affero General Public License version 3 (AGPL v3) or
+*  (iii) a commercial license.
+* This file remains the exclusive property of 4D and/or its licensors
+* and is protected by national and international legislations.
+* In any event, Licensee's compliance with the terms and conditions
+* of the applicable license constitutes a prerequisite to any use of this file.
+* Except as otherwise expressly stated in the applicable license,
+* such license does not include any other license or rights on this file,
+* 4D's and/or its licensors' trademarks and/or other proprietary rights.
+* Consequently, no title, copyright or other proprietary rights
+* other than those specified in the applicable license is granted.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>404 - Not Found</title>
+<style>
+	body { margin: 0px; padding: 0px; font: 90% "Lucida Grande", Lucida, Verdana, sans-serif; }
+	div#title { background-color: #2c4b79; padding: 15px 15px 15px 20px; margin: 0px; }
+	div#message { padding: 20px; }
+	div#details { padding: 10px; }
+	h2 { color: #fff; font-size: 1.3em; margin: 0; padding: 0; }
+	p { padding: 0px; margin: 0px; }
+</style>
+</head>
+<body>
+<div id="title">
+<h2>404 - Not Found</h2>
+</div>
+<div id="message">
+<p></p>
+</div>
+<div id="details">
+<code></code>
+</div>
+</body>
+</html>
+
