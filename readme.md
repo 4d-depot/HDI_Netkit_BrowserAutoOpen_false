@@ -1,6 +1,8 @@
 #  HDI_Netkit_BrowserAutoOpen_false
 
-Version min: 4D v20 R6
+Manage manually the OAuth 2.0 authentication interface (4D 20 R6) 
+
+Find more information on the [blog post](https://blog.4d.com/).
 
 ## Installing and Using a 4D Project
 
